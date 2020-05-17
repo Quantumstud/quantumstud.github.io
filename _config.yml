@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tara's Internet Abode"
 title_separator          : "-"
-name                     : Tara Prasad Mishra "Tara Prasad Mishra"
+name                     : &name "Tara Prasad Mishra"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Tara Prasad Mishra"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : https://twitter.com/tara_1391996
+  twitter          : "tara_1391996"
   vine             :
   weibo            :
   xing             :
