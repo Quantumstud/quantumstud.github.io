@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "https://twitter.com/tara_1391996"
+  username               : "https://twitter.com/tara_1391996"
 facebook:
   username               :
   app_id                 :
