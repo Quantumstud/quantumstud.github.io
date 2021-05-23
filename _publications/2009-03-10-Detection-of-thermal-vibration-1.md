@@ -7,7 +7,7 @@ the scanning transmission electron microscopy (STEM). The atomic vibration leads
 column intensity when a large angle detector is used.'
 date: 2017-03-10
 venue: 'Applied physics Express'
-paperurl: 'http://academicpages.github.io/files/ThermalVibrations_Mishra_2017_APEx_10_045601.pdf'
+paperurl: 'http://quantumstud.github.io/files/ThermalVibrations_Mishra_2017_APEx_10_045601.pdf'
 citation: 'Mishra, Tara Prasad (2017). "Detection of large thermal vibration for Cu atoms in tetrahedrite by high-angle annular dark-field imaging." <i>Appl. Phys. Express </i>. 10 (045601).'
 ---
 
