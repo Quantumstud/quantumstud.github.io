@@ -2,15 +2,15 @@
 title: "Detection of large thermal vibration for Cu atoms in tetrahedrite by high-angle annular dark-field imaging"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'In this work, we showed it is possible to detect the atomic vibration of Cu atoms using high-angle annular dark field (HAADF) imaging mode in 
+the scanning transmission electron microscopy (STEM). The atomic vibration leads to a blurring effect resulting in the reduction of the atomic
+column intensity when a large angle detector is used.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/ThermalVibrations_Mishra_2017_APEx_10_045601.pdf'
 citation: 'Your , You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-In this work, we showed it is possible to detect the atomic vibration of Cu atoms using high-angle annular dark field (HAADF) imaging mode in 
-the scanning transmission electron microscopy (STEM). The atomic vibration leads to a blurring effect resulting in the reduction of the atomic
-column intensity when a large angle detector is used.
+
 
 [Download paper here](http://academicpages.github.io/files/ThermalVibrations_Mishra_2017_APEx_10_045601.pdf)
 
