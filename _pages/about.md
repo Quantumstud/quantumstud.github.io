@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>.
+description: <a href="https://nus.edu.sg/">National University of Singapore</a>, <a href="https://smart.mit.edu/"> Singapore-MIT Alliance for Research and Technology</a>.
 
 profile:
   align: right
@@ -21,7 +21,10 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 {: style="text-align: justify" }
-I am a graduate student under the Singapore (NUS) – MIT Alliance for Research and Technology ([SMART](https://smart.mit.edu/){:target="\_blank"}). I am affiliated to the [department of Material Science and Engineering of NUS](https://www.eng.nus.edu.sg/mse/){:target="\_blank"}. My broad area of interest is the synergistic investigation of materials using atomically resolved microscopy and computational materials science. In 2018, I completed my undergraduate studies in Materials at the Indian Institute of Science, Bangalore (IISc, Bangalore). 
+I am a graduate student under the Singapore (NUS) – MIT Alliance for Research and Technology ([SMART](https://smart.mit.edu/){:target="\_blank"}). I am affiliated to the [department of Material Science and Engineering of NUS](https://www.eng.nus.edu.sg/mse/){:target="\_blank"}. My broad area of interest is the synergistic investigation of materials using atomically resolved microscopy and computational materials science. Specifically my projects deal with bridging the existing gap between numerous theoretical and experimental techniques. In 2018, I completed my undergraduate studies in Materials at the Indian Institute of Science, Bangalore (IISc, Bangalore). 
 
+{: style="text-align: justify" }
+I use a variety of programming languages such as Python, C++ and MATLAB. For my research I have to often use popular materials modelling packages such as [VASP](https://smart.mit.edu/){:target="\_blank"}, [LAMMPS](https://smart.mit.edu/){:target="\_blank"}, [abTEM](https://smart.mit.edu/){:target="\_blank"}. I specialize in the aberration corrected Scanning Transmission Electron Microscopy.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+{: style="text-align: justify" }
+I am jack of all sports and master of none {always up for a game of squash}. 
