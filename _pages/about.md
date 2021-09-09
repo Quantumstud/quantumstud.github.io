@@ -21,10 +21,14 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 {: style="text-align: justify" }
-I am a graduate student under the Singapore (NUS) – MIT Alliance for Research and Technology ([SMART](https://smart.mit.edu/){:target="\_blank"}). I am affiliated to the [department of Material Science and Engineering of NUS](https://www.eng.nus.edu.sg/mse/){:target="\_blank"}. My broad area of interest is the synergistic investigation of materials using atomically resolved microscopy and computational materials science. Specifically my projects deal with bridging the existing gap between numerous theoretical and experimental techniques. In 2018, I completed my undergraduate studies in Materials at the Indian Institute of Science, Bangalore (IISc, Bangalore). 
+I am a graduate student under the Singapore (NUS) – MIT Alliance for Research and Technology ([SMART](https://smart.mit.edu/){:target="\_blank"}) and currently affiliated with the [department of Material Science and Engineering of NUS](https://www.eng.nus.edu.sg/mse/){:target="\_blank"}. 
+
+I have a Bachelors in Materials at the Indian Institute of Science, Bangalore (IISc, Bangalore) in 2018.
+
+My broad area of interest lies in synergistic investigation of materials using atomically resolved microscopy and computational materials science. Specifically, my projects deal with bridging the existing gap between numerous theoretical and experimental techniques and I specialize in the aberration corrected Scanning Transmission Electron Microscopy (STEM).
 
 {: style="text-align: justify" }
 I use a variety of programming languages such as Python, C++ and MATLAB. For my research I have to often use popular materials modelling packages such as [VASP](https://smart.mit.edu/){:target="\_blank"}, [LAMMPS](https://smart.mit.edu/){:target="\_blank"}, [abTEM](https://smart.mit.edu/){:target="\_blank"}. I specialize in the aberration corrected Scanning Transmission Electron Microscopy.
 
 {: style="text-align: justify" }
-I am jack of all sports and master of none {always up for a game of squash}. 
+I am jack of all sports and master of none {always up for a game of squash and Tennis}. 
