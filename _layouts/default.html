@@ -1,31 +1,40 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
   <head>
-    {% include head.html %}
-    {% include scripts/mathjax.html %}
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- seo -%}
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/custom.css" | relative_url }}">
   </head>
+  <body>
+    <header class="site-header" role="banner">
+      <div class="wrapper">
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+        <nav class="site-nav">
+          <a class="page-link" href="{{ "/about" | relative_url }}">About</a>
+          <a class="page-link" href="{{ "/projects" | relative_url }}">Projects</a>
+          <a class="page-link" href="{{ "/publications" | relative_url }}">Publications</a>
+          <a class="page-link" href="{{ "/news" | relative_url }}">News</a>
+        </nav>
+      </div>
+    </header>
 
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
 
-    <!-- Header -->
-
-    {% include header.html %}
-
-    <!-- Content -->
-
-    <div class="container mt-5">
-      {{ content }}
-    </div>
-
-    <!-- Footer -->
-
-    {% include footer.html %}
-
+    <footer class="site-footer">
+      <div class="wrapper">
+        <p>© {{ site.time | date: "%Y" }} {{ site.author.name }}
+          · <a href="{{ site.author.github }}">GitHub</a>
+          · <a href="{{ site.author.scholar }}">Scholar</a>
+          · <a href="{{ site.author.orcid }}">ORCID</a>
+        </p>
+      </div>
+    </footer>
   </body>
-
-  {% include scripts/bootstrap.html %}
-  {% include scripts/mansory.html %}
-  {% include scripts/misc.html %}
-
 </html>
+
